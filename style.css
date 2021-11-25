@@ -137,7 +137,7 @@ header .navbar a:hover{
     text-align: center
 }
 /* footer */
-.footer {
+footer {
    text-align: center;
    padding: 3px;
    background-color: rgb(46, 105, 214);
